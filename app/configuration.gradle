@@ -1,0 +1,34 @@
+ext {
+    MINSDKVERSION = 21
+    TARGETSDKVERSION = 28
+    COMPILESDKVERSION = 28
+    VERSIONCODE = 1
+    VERSIONNAME = "1.0"
+
+    //Gradle
+    gradleVersion = '3.4.1'
+
+    // Android support libraries
+    supportLibraryVersion = '28.0.0'
+    constraintVersion = '1.1.3'
+
+    //Room
+    roomVersion='1.1.1'
+
+    //Test dependencies
+    junitVersion = '4.12'
+    runnerVersion = '1.0.2'
+    espressoVersion = '3.0.2'
+
+    //Sonarqube
+    sonarqubeVersion = '2.7.1'
+
+    //Jacoco
+    jacocoCoreVersion = '0.8.3'
+    jacocoAndroidVersion = '0.1.4'
+
+    //Configuración Sonar
+    sonarHost = 'http://127.0.0.1:9000'
+    sonarLogin = 'admin'
+    sonarPassword = 'admin'
+}

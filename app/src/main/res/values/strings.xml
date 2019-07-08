@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Persistencia Room</string>
+    <!-- MainActivity -->
+    <string name="mensaje">No existe el trabajador</string>
+    <!-- activity_main.xml -->
+    <string name="ver_trabajadores">Ver trabajadores</string>
+    <string name="insertar_trabajador">Insertar trabajador</string>
+    <string name="borrar_trabajadores">Borrar trabajadores</string>
+    <string name="nombre_trabajador">Introducir nombre del trabajador</string>
+    <string name="buscar_trabajador">Buscar por nombre</string>
+    <!-- generales para xml -->
+    <string name="nombre">Nombre:</string>
+    <string name="puesto">Puesto:</string>
+    <string name="antiguedad">Antigüedad</string>
+    <!-- botones -->
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
